@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+    <string name="first_head">First Heading</string>
+    <string name="second_head">Second Heading</string>
+    <string name="third_head">Third Heading</string>
+    <string name="fourth_head">Fourth Heading</string>
+    <string name="fifth_head">Fifth Heading</string>
+    <string name="sixth_head">Sixth Heading</string>
+    <string name="seventh_head">Seventh Heading</string>
+    <string name="first_day">Day1</string>
+    <string name="second_day">Day2</string>
+    <string name="third_day">Day3</string>
+    <string name="fourth_day">Day4</string>
+    <string name="fifth_day">Day5</string>
+    <string name="sixth_day">Day6</string>
+    <string name="seventh_day">Day7</string>
+    <string name="first_content">First Content</string>
+    <string name="second_content">Second Content</string>
+    <string name="third_content">Third Content</string>
+    <string name="fourth_content">Fourth Content</string>
+    <string name="fifth_content">Fifth Content</string>
+    <string name="sixth_content">Sixth Content</string>
+    <string name="seventh_content">Seventh Content</string>
+
+</resources>
